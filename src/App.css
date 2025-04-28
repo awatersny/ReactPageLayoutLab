@@ -5,14 +5,17 @@ div {
 
 #app {
   border: 2px solid black;
+  display: flex;
 }
 
 #home-page {
   border: 2px solid orange;
+  width: 50%;
 }
 
 #employee-page {
   border: 2px solid brown;
+  width: 50%;
 }
 
 .header {

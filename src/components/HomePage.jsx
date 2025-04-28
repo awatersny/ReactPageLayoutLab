@@ -1,7 +1,14 @@
 import React from 'react'
+import Header from "./Header"
+import SearchBar from "./SearchBar"
+import EmployeeList from './EmployeeList'
 
 export default function HomePage() {
   return (
-    <div>HomePage</div>
+    <div id='home-page'>
+      <Header/>
+      <SearchBar/>
+      <EmployeeList/>
+    </div>
   )
 }

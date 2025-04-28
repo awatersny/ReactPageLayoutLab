@@ -1,6 +1,17 @@
 div {
-  padding: 5px;
   margin: 5px
+}
+
+h3 {
+  padding: 5px;
+}
+
+h3, h4, h5 {
+  margin: 0
+}
+
+h5 {
+  color: #888;
 }
 
 #app {
@@ -20,10 +31,13 @@ div {
 
 .header {
   border: 2px solid skyblue;
+  margin: 5px;
 }
 
 #search-bar {
   border: 2px solid green;
+  padding: 2px;
+  margin: 5px;
 }
 
 #employee-list {
@@ -32,4 +46,5 @@ div {
 
 .employee-list-item {
   border: 2px solid red;
+  padding: 5px;
 }

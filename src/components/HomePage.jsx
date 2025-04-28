@@ -6,7 +6,7 @@ import EmployeeList from './EmployeeList'
 export default function HomePage() {
   return (
     <div id='home-page'>
-      <Header content={"Employee Directory"}/>
+      <Header content="Employee Directory"/>
       <SearchBar/>
       <EmployeeList/>
     </div>

@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Header(props) {
   return (
-    <div class="header">
+    <h3 class="header">
       {props.content}
-    </div>
+    </h3>
   )
 }

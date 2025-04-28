@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function EmployeeListItem() {
   return (
-    <div>EmployeeListItem</div>
+    <div class="employee-list-item">
+      EmployeeListItem
+    </div>
   )
 }

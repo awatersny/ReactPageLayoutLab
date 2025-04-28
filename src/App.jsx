@@ -6,10 +6,10 @@ import EmployeePage from './components/EmployeePage'
 function App() {
 
   return (
-    <>
+    <div id='app'>
       <HomePage/>
       <EmployeePage/>
-    </>
+    </div>
   )
 }
 

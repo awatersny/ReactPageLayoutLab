@@ -1,3 +1,32 @@
-home-page {
-  background-color: green;
+div {
+  padding: 5px;
+  margin: 5px
+}
+
+#app {
+  border: 2px solid black;
+}
+
+#home-page {
+  border: 2px solid orange;
+}
+
+#employee-page {
+  border: 2px solid brown;
+}
+
+.header {
+  border: 2px solid skyblue;
+}
+
+#search-bar {
+  border: 2px solid green;
+}
+
+#employee-list {
+  border: 2px solid purple;
+}
+
+.employee-list-item {
+  border: 2px solid red;
 }

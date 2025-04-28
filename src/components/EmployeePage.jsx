@@ -3,7 +3,7 @@ import Header from './Header'
 
 export default function EmployeePage() {
   return (
-    <div>
+    <div id='employee-page'>
       <Header/>
       <div>
         Employee Page Info

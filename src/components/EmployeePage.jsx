@@ -4,7 +4,7 @@ import Header from './Header'
 export default function EmployeePage() {
   return (
     <div id='employee-page'>
-      <Header content={"Employee Directory"}/>
+      <Header content={"Employee"}/>
       <div>
         Employee Page Info
       </div>
